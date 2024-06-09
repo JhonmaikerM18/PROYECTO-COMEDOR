@@ -279,9 +279,8 @@ int login()
     system("mode con: cols=57 lines=15");
     vector<string> arrays_Id;
 
-    // Se añaden arrays_Id al vector
+    // Se añaden arrays_Id al vectord
     arrays_Id.push_back("Admin");
-
 
     string Id_Login;
 
